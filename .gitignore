@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Training outputs
+save/
+log/
+bit/
+fig_data/
+runs/
+checkpoints/
+
+# Datasets
+data/
+
+# Large model artifacts
+*.pth
+
+# OS files
+.DS_Store
