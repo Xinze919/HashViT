@@ -12,11 +12,6 @@
   </a>
 </p>
 
-Official PyTorch implementation of:
-
-> **Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token**  
-> Xinze Liu, et al.  
-> arXiv preprint, 2026
 
 HashViT is a Native Vision Transformer framework for deep image hashing. Instead of
 generating binary codes only through a terminal projection, HashViT introduces
@@ -26,7 +21,7 @@ binary-oriented representations natively.
 ---
 
 ## News
-- **2026-xx-xx**: 🎉🎉🎉 Paper available on arXiv.
+- **2026-07-06**: 🎉🎉🎉 Paper available on arXiv.
 - **2026-07-04**: 🎉🎉🎉 Code released.
 ---
 
@@ -99,7 +94,17 @@ python HashViT.py \
   --bits 16 32 48 64 \
   --proxy-init text
 ```
+## Citation
 
+If you find this work useful, please consider citing:
+```bibtex
+@article{HashViT,
+  title   = {Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token},
+  author  = {Liu, Xinze and Wang, Ding and Zhu, Hengjie and Wu, Dayan},
+  journal = {arXiv preprint arXiv:xxxx.xxxxx},
+  year    = {2026}
+}
+```
 ## Acknowledgements
 
 This implementation was developed with reference to
@@ -112,5 +117,4 @@ retained.
 
 ## License
 
-This project is released under the [MIT License](LICENSE). The license file
-retains the copyright notice for the upstream DeepHash-pytorch code.
+This project is released under the [MIT License](LICENSE).
