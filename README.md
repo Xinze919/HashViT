@@ -1,7 +1,7 @@
 # Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
+  <a href="https://arxiv.org/abs/2607.03328">
     <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://github.com/Xinze919/HashViT">
@@ -21,7 +21,7 @@ binary-oriented representations natively.
 ---
 
 ## News
-- **2026-07-06**: 🎉🎉🎉 Paper available on arXiv.
+- **2026-07-07**: 🎉🎉🎉 Paper available on arXiv.
 - **2026-07-04**: 🎉🎉🎉 Code released.
 ---
 
@@ -101,7 +101,7 @@ If you find this work useful, please consider citing:
 @article{HashViT,
   title   = {Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token},
   author  = {Liu, Xinze and Wang, Ding and Zhu, Hengjie and Wu, Dayan},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal = {arXiv preprint arXiv:2607.03328},
   year    = {2026}
 }
 ```
