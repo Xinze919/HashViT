@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2607.03328">
-    <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2607.03328-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://github.com/Xinze919/HashViT">
     <img src="https://img.shields.io/badge/Code-HashViT-blue.svg" alt="Code">
