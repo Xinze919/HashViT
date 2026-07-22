@@ -100,7 +100,7 @@ If you find this work useful, please consider citing:
 ```bibtex
 @article{HashViT,
   title   = {Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token},
-  author  = {Liu, Xinze and Wang, Ding and Zhu, Hengjie and Wu, Dayan},
+  author  = {Liu, Xinze and Wang, Ding and Wu, Dayan and Zhu, Hengjie and Fu, Peng and Lin, Zheng and Wang, Weiping},
   journal = {arXiv preprint arXiv:2607.03328},
   year    = {2026}
 }
